@@ -16,7 +16,7 @@ Welcome to the Casino Game in C++, a simple console-based game where players can
 **Features**
 
 1) Player input for names, chosen numbers, and bet amounts.
-2)Random number generation for an unbiased gaming experience.
+2) Random number generation for an unbiased gaming experience.
 3) Winnings calculation based on the chosen number and bet amount.
 4) Player balances tracking and display after each round.
-5)Option to play multiple rounds.
+5) Option to play multiple rounds.
